@@ -1,0 +1,3 @@
+# set hostname to server that will have apache installed on it
+[apache-servers]
+52.16.196.201:22
